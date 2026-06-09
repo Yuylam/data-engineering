@@ -1,0 +1,19 @@
+# Professional Communication Skills 2
+## Assignments
+### [Proposal](/year-3-semester-1/professional-communication-skills-2/proposal.pdf)
+This proposal aims to establish the Hong Leong Bank Financial Empowerment Hub to improve financial literacy and provide micro-financing for B40 entrepreneurs. The program will offer workshops on budgeting, savings, credit management, digital banking, and mentorship to help participants formalize and grow their businesses, supported by an online education platform. With a requested grant of RM200,000, the initiative seeks to create long-term financial inclusion, entrepreneurial growth, and economic stability for the underserved community.
+
+### [Pitching](/year-3-semester-1/professional-communication-skills-2/pitching.pdf)
+This is a pitch to gain the financial grant as mentioned in the previous proposal.
+
+### Negotiation
+In this task, two teams were gathered to do a negotiation simulation between Shopee and Maybank, where both parties discussed and negotiated a strategic partnership campaign. The negotiation covered voucher programs, loyalty point redemption, promotional activities, revenue sharing, data sharing, campaign funding, and KPI targets, while demonstrating negotiation techniques such as bargaining, compromise, and mutual agreement. Through the discussion, both teams successfully reached a collaborative agreement that aimed to increase customer acquisition, transaction volume, and brand engagement for both organizations.
+
+## Reflection
+In this course, important communication skills were enhanced, particularly through the negotiation assignment. As it was a large group task, there were often conflicting opinions, but we had to respect each other’s contributions and work collaboratively. The negotiation was recorded through a virtual meeting, and our initial script was fully AI-generated. However, it felt awkward, as each speaker had unusually long turns.
+
+Although the script had been prepared earlier by some members, I only reviewed it one day before recording. I chose not to raise concerns at that time, as I respected the effort already put in and the script had been shared for some time. On the day of recording, we realized the script was too short for the required video length, which led us to collectively rewrite it from scratch and refine it with the help of AI.
+
+Through this experience, I learned the importance of reviewing group work earlier and being more proactive in giving feedback when issues first arise.
+
+<!-- In this course, important communication skills are exhanced. I particularlly have thought on the negotiation assignment. Since it is a large group assignment, there are always opinions conflict and at the same time, we have to respect others work. Since the negotiation is a recorded assignment, were we recorded the video through a virtual meeting. At first the script was a fully AI generated script, although the script is really awkward that each person would speak for exceptionally long each turn. However, the script was prepared by some other members a long time before the video was recorded. I didn't study the script until its one day before the recording. Despite the script was awkward, I did not want to point it out as it was some others effort, and I didn't propose any problem as it has been shared for a long time. At the day of recording, the script length was significantly shorter than the required video length. Only when me and my group proposed to rewrite the script. With us gathering the ideas from scratch and rewriting evey line of script, of course, with AI as the next step to enhance our sentences and words. I think through this process, I believe that I should be more alert to others proposal and review them as soon as possible when they propose it. -->

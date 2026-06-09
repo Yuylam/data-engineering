@@ -1,0 +1,169 @@
+// Question A1
+db.appointments.insertMany([
+    {
+        appointmentId: 1,
+        patientName: "Stella Liong Eh Ha",
+        doctor: "Nur Hjh Syaidatul Fahmi binti Jumat", 
+        department: "Surgical",
+        status: "COMPLETED",
+        fee: 1500,
+        appointmentDate: ISODate("2025-12-01")
+    }, {
+        appointmentId: 2,
+        patientName: "Mohammed Zaidi Mustaqim bin Abidin",
+        doctor: "Nur Hjh Syaidatul Fahmi binti Jumat", 
+        department: "Surgical",
+        status: "PENDING",
+        fee: 1600,
+        appointmentDate: ISODate("2025-12-02")
+    }, {
+        appointmentId: 3,
+        patientName: "Jane Dhillon",
+        doctor: "Yeow Jye Khi", 
+        department: "Otorhinolarygology",
+        status: "COMPLETED",
+        fee: 136,
+        appointmentDate: ISODate("2025-12-03")
+    }, {
+        appointmentId: 4,
+        patientName: "Seow Luk Tiah",
+        doctor: "Yeow Jye Khi", 
+        department: "Otorhinolarygology",
+        status: "COMPLETED",
+        fee: 60,
+        appointmentDate: ISODate("2025-12-04")
+    }, {
+        appointmentId: 5,
+        patientName: "Mohammed Hj Rafizal Nasir bin Fauzul Jamaluddin",
+        doctor: "Gunasekaran Rao", 
+        department: "Anaesthesiology",
+        status: "PENDING",
+        fee: 364,
+        appointmentDate: ISODate("2025-12-05")
+    }, {
+        appointmentId: 6,
+        patientName: "Haji Zaiyon Hazizan bin Nik Jamil Dahlan",
+        doctor: "Ambiga a/l Cecil", 
+        department: "Paediatric",
+        status: "CANCELLED",
+        fee: 136,
+        appointmentDate: ISODate("2025-12-06")
+    }, {
+        appointmentId: 7,
+        patientName: "Jane Arumugam",
+        doctor: "Ambiga a/l Cecil", 
+        department: "Paediatric",
+        status: "COMPLETED",
+        fee: 600,
+        appointmentDate: ISODate("2025-12-07")
+    }, {
+        appointmentId: 8,
+        patientName: "John Prakash",
+        doctor: "Gunasekaran Rao", 
+        department: "Anaesthesiology",
+        status: "COMPLETED",
+        fee: 164,
+        appointmentDate: ISODate("2025-12-08")
+    }
+])
+
+// Question A2
+db.loginSessions.insertMany([
+    {
+        staffId: 1,
+        staffName: "Nur Hjh Syaidatul Fahmi binti Jumat",
+        role: "Doctor",
+        status: "INACTIVE", 
+        ipAddress: "197.178.155.216",
+        loginTime: ISODate("2025-12-08T18:17:15")
+    }, {
+        staffId: 2,
+        staffName: "Yeow Jye Khi",
+        role: "Doctor",
+        status: "ACTIVE", 
+        ipAddress: "197.178.155.217",
+        loginTime: ISODate("2025-12-08T19:48:11")
+    }, {
+        staffId: 3,
+        staffName: "Gunasekaran Rao",
+        role: "Doctor",
+        status: "INACTIVE", 
+        ipAddress: "197.178.155.210",
+        loginTime: ISODate("2025-12-08T00:10:17")
+    }, {
+        staffId: 5,
+        staffName: "Ambiga a/l Cecil",
+        role: "Doctor",
+        status: "INACTIVE", 
+        ipAddress: "197.178.155.110",
+        loginTime: ISODate("2025-12-08T08:14:41")
+    }, {
+        staffId: 6,
+        staffName: "Tay Gek Sian",
+        role: "Nurse",
+        status: "ACTIVE", 
+        ipAddress: "197.178.155.116",
+        loginTime: ISODate("2025-12-08T06:17:15")
+    }, {
+        staffId: 7,
+        staffName: "Nur Camelia Talib binti Muhaimen Rasyid",
+        role: "Nurse",
+        status: "INACTIVE", 
+        ipAddress: "197.178.155.117",
+        loginTime: ISODate("2025-12-08T20:48:11")
+    }, {
+        staffId: 8,
+        staffName: "Melinda Siong Tok Rui",
+        role: "Nurse",
+        status: "INACTIVE", 
+        ipAddress: "197.178.155.110",
+        loginTime: ISODate("2025-12-08T19:10:17")
+    }, {
+        staffId: 9,
+        staffName: "Noratasha Nafiz binti Che Midali",
+        role: "Nurse",
+        status: "ACTIVE", 
+        ipAddress: "197.178.155.130",
+        loginTime: ISODate("2025-12-08T05:14:41")
+    }
+])
+
+// Question B1
+db.appointments
+    .find(
+        {status: "COMPLETED", fee: {$gt: 100, $lt: 300}}, 
+        {appointmentId: 1, patientName: 1, department: 1, fee: 1})
+    .sort({department: 1, fee: -1})
+
+// Question B2
+db.appointments.aggregate([
+    {$group: {
+        _id: "$department", 
+        totalAppointments: {$sum: 1}, 
+        totalFees: {$sum: "$fee"}}},
+    {$sort: {totalFees: -1}}
+])
+
+// Question C1
+db.loginSessions
+    .find(
+        {status: "ACTIVE"},
+        {staffName: 1, role: 1, ipAddress: 1, loginTime: 1})
+    .sort({loginTime: -1})
+
+// Question C2a
+db.loginSessions.distinct("ipAddress", {status: "ACTIVE"})
+
+// Question C2b
+db.loginSessions.distinct("staffId", {status: "ACTIVE"}).length
+
+// Question D1
+db.appointments.createIndex({department: 1, status: 1})
+
+// Question D2a
+db.appointments.updateMany(
+    {status: "CANCELLED"},
+    {$set: {status: "ARCHIVED"}})
+
+// Question D2b
+db.loginSessions.deleteMany({status: "INACTIVE"})

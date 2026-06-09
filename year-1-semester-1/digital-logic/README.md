@@ -30,11 +30,11 @@ This course introduces digital electronics and overview of many concepts, compon
 - Construct synchronous counter circuit using flip-flops and basic gates
 <img width="500" alt="image" src="https://github.com/Yuylam/semester-1/assets/147635499/17f3ed82-a28b-44bc-8e2d-18a68eb3da5d">
 
-### [Project Elevator Controller System](https://github.com/Yuylam/semester-1/blob/main/digital-logic/Digital%20logic%20Project.pdf)
+### [Project Elevator Controller System](/year-1-semester-1/digital-logic/project-elevator-controller-system.pdf)
 - In the project, we shall apply our knowledge in Digital Logic to make an elevator controller system by using Deeds Simulator.
 - [Demonstration video](https://www.youtube.com/watch?v=yMGTg36wHTQ)
 
 ## Reflection
 I really enjoy this subject, dealing with the circuits are so much fun. The simple basic gates can be combined to create various amazing stuffs such as adders, comparators, decoders, encoders, counters and so much more. I would be happy to explore more about the workings behind these integrated circuits.   
 
-I am especially impressed by the invention of lateches and flip-flops. The design of feedback of the output to the input, enables them to store memory, laying the foundation for the computers we have today! 
+I am especially impressed by the invention of latches and flip-flops. The design of feedback of the output to the input, enables them to store memory, laying the foundation for the computers we have today! 
