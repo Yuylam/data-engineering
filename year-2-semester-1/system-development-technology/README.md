@@ -22,11 +22,11 @@ This course introduces web development technology using the XAMPP stack.
 The system is a web-based Course Registration System (CRS) designed to manage course registration activities for students, lecturers, and administrators. It allows users to view course details, monitor student registration status, manage course offerings and sections, edit registrations, and register new users based on different roles. Administrators can add, edit, and organize courses and student registrations efficiently through dedicated management pages. The system is developed and tested locally using XAMPP, with files stored in the htdocs/crs directory and the database managed through phpMyAdmin using localhost access.
 
 ## Project
-The project in this subject continues the project from the subject [System Analysis and Design](/../year-1-semester-2/system-analysis-and-design/) of the previous semester. Combined with [Database](/database/) and [Software Engineering](/software-engineering/), the complete system is developed.
+The project in this subject continues the project from the subject [System Analysis and Design](/year-1-semester-2/system-analysis-and-design/) of the previous semester. Combined with [Database](/year-2-semester-1/database/) and [Software Engineering](/year-2-semester-1/software-engineering/), the complete system is developed.
 
 This course is involved in the development process and the actual website is developed in this course.
 
-### [User Manual](/system-development-technology/kkk-project-user-manual)
+### [User Manual](/year-2-semester-1/system-development-technology/kkk-project-user-manual)
 The user manual depicts the actual system and its uses.
 
 ## Reflection

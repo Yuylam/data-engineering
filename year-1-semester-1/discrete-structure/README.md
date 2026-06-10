@@ -17,16 +17,16 @@ This course introduces students to the principles and applications of discrete s
 - Finite automata
 
 ## Assignments
-### [Assignment 1](https://github.com/Yuylam/semester-1/blob/main/discrete-structure/Assignment%201%20LAM%20YOKE%20YU%20LIM%20YU%20HAN%20LUBNA%20AL%20HAANI%20BINTI%20RADZUAN.pdf)
+### [Assignment 1](/year-1-semester-1/discrete-structure/assignment1.pdf)
 Assignment on set theory, elements of logic and proof techniques
 
-### [Assignment 2](https://github.com/Yuylam/semester-1/blob/main/discrete-structure/Assignment%202%20LAM%20YOKE%20YU%20LIM%20YU%20HAN%20LUBNA%20AL%20HAANI%20BINTI%20RADZUAN.pdf)
+### [Assignment 2](/year-1-semester-1/discrete-structure/assignment2.pdf)
 Assignment on relation, function and recurrence relation
 
-### [Assignment 3](https://github.com/Yuylam/semester-1/blob/main/discrete-structure/Assignment%203%20LAM%20YOKE%20YU%20LIM%20YU%20HAN%20LUBNA%20AL%20HAANI%20BINTI%20RADZUAN.pdf)
+### [Assignment 3](/year-1-semester-1/discrete-structure/assignment3.pdf)
 Assignment on pigeonhole theory, probability and graph theory
 
-### [Assignment 4](https://github.com/Yuylam/semester-1/blob/main/discrete-structure/Assignment%204%20LAM%20YOKE%20YU%20LIM%20YU%20HAN%20LUBNA%20AL%20HAANI%20BINTI%20RADZUAN.pdf)
+### [Assignment 4](/year-1-semester-1/discrete-structure/assignment4.pdf)
 Assignment on graph theory and finite automata
 
 ## Reflection

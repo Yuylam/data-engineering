@@ -5,6 +5,13 @@ This course introduces the use of Python to store and manipulate data for data a
 - [Assignments](#assignments)
 - [Reflection](#reflection)
 
+## Technology Involved
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge) 
+![Seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge)
+
 ## Course content
 - Python Basics
 - NumPy Basics

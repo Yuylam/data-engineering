@@ -1,7 +1,7 @@
 # Appreciation of Ethics and Civilisation (Penghayatan Etika dan Peradaban)
 This course introduces concept of ethics in from the view of different civilisation.
 
-## [Assignment](/appreciation-of-ethics-and-civillisation/Laporan%20Tugasan%20Berkumpulan.pdf)
+## [Assignment](/year-1-semester-2/appreciation-of-ethics-and-civillisation/laporan-tugasan.pdf)
 In this assignment, we interviewed five person with different ethic background to understand ethics in their point of view.
 
 

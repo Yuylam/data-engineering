@@ -6,6 +6,9 @@ This course presents the concepts of object oreintation and object-oriented prog
 - [Assignments](#assignments)
 - [Reflection](#reflection)
 
+## Technology Involved
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
+
 ## Course content
 - Object oriented concepts
 - Class and Objects

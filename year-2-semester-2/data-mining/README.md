@@ -6,6 +6,13 @@ Introduces the knowledge discovery process in databases and data mining technque
 - [Project](#project)
 - [Reflection](#reflection)
 
+## Technology Involved
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge) 
+![Seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge)
+
 ## Course content
 - Data Mining
 - Data Preprocessing

@@ -12,10 +12,10 @@ This course introduces human-computer interaction theories and design processes,
 - Evaluation
 
 ## Assignments
-### [Assignment 1: Persuasive Technology](/human-computer-interaction/Assignment%201%20Persuasive%20Technology.pdf)
+### [Assignment 1: Persuasive Technology](/year-1-semester-2/human-computer-interaction/assignment1-persuasive-technology.pdf)
 An example of persuasive technology. It discusses on the features of the technology that requires the user to execute a target behaviour. In our assignment, the selected technology is self-checkout systems.
 
-### [Assignment 2: Heuristic Evaluation Journey Mapping](/human-computer-interaction/Assignment%202%20Heuristic%20Evaluation.pdf)
+### [Assignment 2: Heuristic Evaluation Journey Mapping](/year-1-semester-2/human-computer-interaction/assignment2-heuristic-evaluation.pdf)
 - Inspect others group's prototype using Heuristic Evaluation.
 
 ### [Project](https://checkitoutgroup9.blogspot.com/)

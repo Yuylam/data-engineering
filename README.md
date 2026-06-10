@@ -2,52 +2,53 @@
 
 ## Course Structure
 ### Year 1 Semester 1
-- [Technology and Information Systems](https://github.com/Yuylam/semester-1/tree/main/technology-and-information-system)
-- [Programming Technique I](https://github.com/Yuylam/semester-1/tree/main/programming-techniques-1)
-- [Digital Logic](https://github.com/Yuylam/semester-1/tree/main/digital-logic)
-- [Discrete Structure](https://github.com/Yuylam/semester-1/tree/main/discrete-structure)
-- [Integrity and Anticorruption](https://github.com/Yuylam/semester-1/tree/main/integrity-and-anticorruption)
+- [Technology and Information Systems](/year-1-semester-1/technology-and-information-system/)
+- [Programming Technique I](/year-1-semester-1/programming-techniques-1)
+- [Digital Logic](/year-1-semester-1/digital-logic)
+- [Discrete Structure](/year-1-semester-1/discrete-structure)
+- [Integrity and Anticorruption](/year-1-semester-1/integrity-and-anticorruption)
 
 ### Year 1 Semester 2
-- [Probability & Statistical Data Analysis](/probability-and-statistical-data-analysis/)
-- [Programming Technique II](/programming-technique-2/)
-- [System Analysis & Design](/system-analysis-and-design)
-- [Computer Organisation Architecture](/computer-organisation-and-architecture)
-- [Human Computer Interaction](/human-computer-interaction)
-- [Appreciation of Ethics and Civilisation](/appreciation-of-ethics-and-civillisation/)
+- [Probability & Statistical Data Analysis](/year-1-semester-2/probability-and-statistical-data-analysis/)
+- [Programming Technique II](/year-1-semester-2/programming-technique-2/)
+- [System Analysis & Design](/year-1-semester-2/system-analysis-and-design)
+- [Computer Organisation Architecture](/year-1-semester-2/computer-organisation-and-architecture)
+- [Human Computer Interaction](/year-1-semester-2/human-computer-interaction)
+- [Appreciation of Ethics and Civilisation](/year-1-semester-2/appreciation-of-ethics-and-civillisation/)
 
 ### Year 2 Semester 1
-- Data Structure and Algorithm
-- Database
-- Software Engineering
-- System Development Technology
-- Network Communications
-- Photocreative Services
+- [Data Structure and Algorithm](/year-2-semester-1/data-structure-and-algorithm/)
+- [Database](/year-2-semester-1/database/)
+- [Software Engineering](/year-2-semester-1/software-engineering/)
+- [System Development Technology](/year-2-semester-1/system-development-technology/)
+- [Network Communications](/year-2-semester-1/network-communications/)
+- [Photocreative Services](/year-2-semester-1/photocreative-services/)
 
 ### Year 2 Semester 2
-- Object-Oriented Programming
-- Data Mining
-- Data Analytics Programming
-- Operating Systems
-- Professional Communication Skills 1
-- Technopreneurship Seminar
+- [Object-Oriented Programming](/year-2-semester-2/object-oriented-programming/)
+- [Data Mining](/year-2-semester-2/data-mining/)
+- [Data Analytics Programming](/year-2-semester-2/data-analytics-programming/)
+- [Operating Systems](/year-2-semester-2/operating-systems/)
+- [Professional Communication Skills 1](/year-2-semester-2/professional-communication-skills-1/)
+- [Technopreneurship Seminar](/year-2-semester-2/technopreneurship-seminar/)
 
 ### Year 3 Semester 1
-- Artificial Intelligence
-- Database Programming
-- Enterprise Systems Design and Modeling
-- Instrumentation and Measurement
-- Professional Communication Skills 2
-- French Language
+- [Artificial Intelligence](/year-3-semester-1/artificial-intelligence/)
+- [Database Programming](/year-3-semester-1/database-programming/)
+- [Enterprise Systems Design and Modeling](/year-3-semester-1/enterprise-system-design-and-modeling/)
+- [Instrumentation and Measurement](/year-3-semester-1/instrumentation-and-measurement/)
+- [Professional Communication Skills 2](/year-3-semester-1/professional-communication-skills-2/)
+- [French Language](/year-3-semester-1/french-language/)
+- [Professional Skills Certificate](/year-3-semester-1/professional-skills-certificate/)
 
 ### Year 3 Semester 2
-- Application Development
-- High Performanca Data Processing
-- Business Intelligence
-- Special Topic in Data Engineering
-- Entrepreneurship & Innovation
+- [Application Development](/year-3-semester-2/application-development/)
+- [High Performanca Data Processing](/year-3-semester-2/high-performance-data-processing/)
+- [Business Intelligence](/year-3-semester-2/business-inteligence/)
+- [Special Topic in Data Engineering](/year-3-semester-2/special-topic-in-data-engineering/)
+- [Entrepreneurship & Innovation](/year-3-semester-2/entrepreneurship-and-innovation/)
 
-## Technologies & Tools
+## Technologies & Tools Explored
 ### Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
@@ -103,22 +104,8 @@
 <!-- Digital Systems -->
 ![Deeds](https://img.shields.io/badge/Deeds-4E56A6?style=for-the-badge&logo=deeds&logoColor=white)
 
-## Certification
-[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/ca5cca51-5f60-4c5b-a277-9ddbc628e6e9/public_url)
-
-## Projects & Coursework Highlights
-### Programming Project
-- Built C++ console application
-    - Student system
-    - Caluclator
-- Developed Java applications with OOP principles
-
-🌐 Network Communications Labs
-Analysed HTTP, DNS, TCP/UDP behaviour using Wireshark and Packet Tracer
-Implemented subnetting, routing, and ARP-based communication
-🗄️ Database Management System Project
-Designed relational database using ERD and normalization
-Implemented SQL queries for data manipulation
-
 ## Certification & Badges
-link to Credly
+* [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/ca5cca51-5f60-4c5b-a277-9ddbc628e6e9/public_url)
+* [Alteryx Designer Core Certification](https://www.credly.com/badges/0ca87eca-d23d-4586-b179-5f5a871b0eab/public_url)
+* [AWS Academy Graduate - Cloud Foundations - Training Badge](https://www.credly.com/badges/b1a38876-e3f2-436b-b85e-9ec2acd34a34/public_url)
+* [AWS Academy Graduate - Cloud Developing - Training Badge](https://www.credly.com/badges/e772c351-488e-4e8c-b351-ac3147ec1a1e/public_url)
