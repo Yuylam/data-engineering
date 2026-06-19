@@ -60,30 +60,33 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" title="R"/>
 </p>
 
-### Tools and Platforms
-<!-- Data & Cloud -->
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Data Factory](https://img.shields.io/badge/Data%20Factory-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Data Lake](https://img.shields.io/badge/Data%20Lake-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-0082ca?style=for-the-badge&logo=alteryx&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-26569a?style=for-the-badge&logo=tableau&logoColor=white)
-
+### Tools and Platforms Explored
 <!-- Data Libraries and Framework -->
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![polars](https://img.shields.io/badge/polars-0075FF?style=for-the-badge&logo=polars&logoColor=white)
 ![Dask](https://img.shields.io/badge/dask-FC6E6B?style=for-the-badge&logo=dask&logoColor=white)
 ![PyArrow](https://img.shields.io/badge/PyArrow-000000?style=for-the-badge&logo=apachearrow&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge) 
 ![Seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge)
 
 <!-- Databases -->
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+<!-- Data & Cloud -->
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0082ca?style=for-the-badge&logo=alteryx&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-26569a?style=for-the-badge&logo=tableau&logoColor=white)
+![metabase](https://img.shields.io/badge/metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 
 <!-- Web & App -->
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
@@ -109,3 +112,4 @@
 * [Alteryx Designer Core Certification](https://www.credly.com/badges/0ca87eca-d23d-4586-b179-5f5a871b0eab/public_url)
 * [AWS Academy Graduate - Cloud Foundations - Training Badge](https://www.credly.com/badges/b1a38876-e3f2-436b-b85e-9ec2acd34a34/public_url)
 * [AWS Academy Graduate - Cloud Developing - Training Badge](https://www.credly.com/badges/e772c351-488e-4e8c-b351-ac3147ec1a1e/public_url)
+* [AWS Academy Graduate - Cloud Data Pipeline Builder - Training Badge](https://www.credly.com/badges/de74d1d9-f635-49af-baec-4510c4819641/public_url)
