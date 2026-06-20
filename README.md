@@ -1,4 +1,7 @@
-# Bachelor of Computer Science (Data Engineering)
+<h1 align="center">Hi 👋, I'm Lam Yoke Yu</h1>
+<h4 align="center">I'm a 3rd year student in Bachelor of Computer Science (Data Engineering)</h4>
+
+This repository documents my academic journey throughout my three years study in Universiti Teknologi Malaysia.
 
 ## Course Structure
 ### Year 1 Semester 1
@@ -43,8 +46,8 @@
 
 ### Year 3 Semester 2
 - [Application Development](/year-3-semester-2/application-development/)
-- [High Performanca Data Processing](/year-3-semester-2/high-performance-data-processing/)
-- [Business Intelligence](/year-3-semester-2/business-inteligence/)
+- [High Performance Data Processing](/year-3-semester-2/high-performance-data-processing/)
+- [Business Intelligence](/year-3-semester-2/business-intelligence/)
 - [Special Topic in Data Engineering](/year-3-semester-2/special-topic-in-data-engineering/)
 - [Entrepreneurship & Innovation](/year-3-semester-2/entrepreneurship-and-innovation/)
 
