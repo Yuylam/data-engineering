@@ -116,3 +116,13 @@ This repository documents my academic journey throughout my three years study in
 * [AWS Academy Graduate - Cloud Foundations - Training Badge](https://www.credly.com/badges/b1a38876-e3f2-436b-b85e-9ec2acd34a34/public_url)
 * [AWS Academy Graduate - Cloud Developing - Training Badge](https://www.credly.com/badges/e772c351-488e-4e8c-b351-ac3147ec1a1e/public_url)
 * [AWS Academy Graduate - Cloud Data Pipeline Builder - Training Badge](https://www.credly.com/badges/de74d1d9-f635-49af-baec-4510c4819641/public_url)
+
+## Significant Projects
+### [Maukerja Job Scraping and Data Processing Benchmark](https://github.com/drshahizan/HPDP/tree/main/2526/project/p1/TripleA)
+* Designed and implemented a Python-based web scraping pipeline using Requests and BeautifulSoup to collect job postings from Maukerja
+* Developed data consolidation and deduplication workflows that transformed over 1.3 million scraped records into a dataset of 106,081 unique job listings
+* Benchmarked Pandas, Polars and PySpark by executing identical analytical workloads and comparing execution time, memory usage, CPU utilisation and throughput
+
+### [Koperasi Kakitangan KADA Website](https://github.com/Yuylam/KKK-System)
+* Digitalised manual processes (membership application, loan application, financial tracking, monthly salary deduction, application approval, reporting)
+* The [User Manual](/year-2-semester-1/system-development-technology/kkk-project-user-manual) depicts the actual system and its uses.

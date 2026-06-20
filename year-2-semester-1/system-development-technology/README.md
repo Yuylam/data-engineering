@@ -25,9 +25,9 @@ The system is a web-based Course Registration System (CRS) designed to manage co
 The project in this subject continues the project from the subject [System Analysis and Design](/year-1-semester-2/system-analysis-and-design/) of the previous semester. Combined with [Database](/year-2-semester-1/database/) and [Software Engineering](/year-2-semester-1/software-engineering/), the complete system is developed.
 
 This course is involved in the development process and the actual website is developed in this course.
-
-### [User Manual](/year-2-semester-1/system-development-technology/kkk-project-user-manual)
-The user manual depicts the actual system and its uses.
+### [Koperasi Kakitangan KADA Website](https://github.com/Yuylam/KKK-System)
+* Digitalised manual processes (membership application, loan application, financial tracking, monthly salary deduction, application approval, reporting)
+* The [User Manual](/year-2-semester-1/system-development-technology/kkk-project-user-manual) depicts the actual system and its uses.
 
 ## Reflection
 There are still a lot to improve in the system. Due to the time constraint the website for course registration system was completed with just more than functional and not yet very user friendly. Besides, the Laravel framework was not explored deeply and implemented in a complete project, thus, the understanding of the framework is shallow. On top of that, the user manual is not standarise, causing inconsistency throughout the document. However, I am still satisfied with my accomplishment throughout the journey, especially with the module that I was in charge of for the KKK system, including the "Potongan Gaji", "Transaksi", "Polisi" dan "Iklan".
